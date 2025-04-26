@@ -1,5 +1,7 @@
 # dbs-batch11
-Data Science Boot camp Projects
+Data Science Boot camp Projects 
+
+This class is awesome
 
 This bootcamp runs about 4 months, 10 sprints.
 
